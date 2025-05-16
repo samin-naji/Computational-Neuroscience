@@ -66,3 +66,14 @@ plt.xlabel('Time (s)')
 plt.ylabel('Voltage (uV)')
 
 plt.show()
+
+
+
+# Task 1
+
+# Use subplot in order to plot 3 range of the signals,  30-40 ,  150-160 , last 5 seconds.
+
+
+# Task 2
+
+# Instead of using numpy, try implement these formulas by yourself, Write a function
