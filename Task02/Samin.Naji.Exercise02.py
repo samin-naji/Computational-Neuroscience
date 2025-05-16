@@ -37,3 +37,24 @@ for k in range(0,4):
         break
 else:
     print("The system is locked and you don't have any permission to access information")
+
+
+
+```1. Like in the previous exercise, we need to get the information about these 10 people, namely their name, surname, 
+year of birth, height and weight, from the individuals themselves, and add the medical information of the individuals 
+that is already in your system, such as history of hospitalization, blood pressure, number of children, etc., 
+to each person's information.
+2. This time we need to be more precise. Instead of the year of birth, we take the date of birth of the people, 
+which includes the day, month, and year, separated by "/", and subtract today's day, month, and year to get the people's 
+exact age and save those numbers (no need to calculate BMI).
+3. We store people's information in a way that doesn't matter in order and is immutable.
+4. We set a 4-digit password for the system and require each user to enter the password to open the system. 
+Users can enter the password incorrectly up to 4 times and try again. The following steps may occur:
+If the password is entered correctly, we ask for the user's name, and if the name is one of the names stored in the 
+user names (part 1), it means that the person's information exists in the system, and we display a sentence for the 
+person indicating that the person's information (including the first and last name of each person) has been successfully 
+stored.
+If the user entered the password correctly, but when we asked for their name, their name was not among the saved names, 
+We tell them that their name had not been entered before.
+If the user enters the wrong password more than 4 times, we tell them that the system is locked and they are not 
+allowed to access the information.```
