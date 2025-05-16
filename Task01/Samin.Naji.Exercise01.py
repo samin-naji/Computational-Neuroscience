@@ -28,3 +28,18 @@ information.append(BMI)
 for i,j in zip(first_names, last_names):   #part 6
     print(f'dear {i} {j} your information successfully save!')
 print(f'your information = {information}')
+
+
+
+```Get the information of 5 patients as follows:
+1) Take the person's name, surname, year of birth, height, and weight as input from the person.
+2) Add the medical information of the people that already exists in your system, such as history of hospitalization,
+blood pressure, number of children, etc., to the information of each person.
+3) Store the person's information in a way that the order of the information is important and the information can be changed. 
+4) Calculate the person's age based on the person's year of birth and substitute" the age in their information instead of the year of birth. 
+5) Calculate the person's BMI using the height and weight values ​​and "add" it to the person's previous information.
+6) Finally, display a sentence to the person indicating that the person's information (including each person's first and last name) has been successfully saved.
+The first and last names of individuals should be stored in uppercase letters (the individual does not follow this rule when entering information, 
+but we want the information 
+to be stored in all uppercase letters 
+when we store it. The numbers taken from the individual should be in a way that allows numerical calculations to be performed.```
