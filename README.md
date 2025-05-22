@@ -61,3 +61,7 @@ To explore the projects:
    git clone https://github.com/samin-naji/Computational-Neuroscience.git
    cd Computational-Neuroscience
 
+2. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+  
