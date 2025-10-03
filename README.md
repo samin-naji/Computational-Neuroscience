@@ -4,7 +4,7 @@ This repository contains my exercises and projects for **Computational Neuroscie
 
 ---
 
-## Dependencies
+## 📁 Dependencies
 
 The project uses the following Python libraries, organized by functionality:
 
