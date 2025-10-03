@@ -1,4 +1,4 @@
-# Computational Neuroscience
+# 🧠 Computational Neuroscience
 
 This repository contains my exercises and projects for **Computational Neuroscience**, including signal processing, neural data analysis, and machine learning models applied to brain signals.
 
