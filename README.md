@@ -1,6 +1,6 @@
 # 🧠 Computational Neuroscience
 
-This repository contains my exercises and projects for **Computational Neuroscience**, including signal processing, neural data analysis, and machine learning models applied to brain signals.
+This repository contains my exercises and projects in Jupyter notebooks and Python modules for **Computational Neuroscience**, including signal processing, neural data analysis, and machine learning models applied to brain signals.
 
 ---
 
